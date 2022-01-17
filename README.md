@@ -2,7 +2,7 @@
 ## Part I
 ### Answer the following questions:
 
-- Quelle est la difference ntre **Array** et **List** en Python ?  
+- Quelle est la difference entre **Array** et **List** en Python ?  
 ==>
 
 - Comment générer des nombres aléatoires en Python ?   
